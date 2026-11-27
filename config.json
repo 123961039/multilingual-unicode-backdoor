@@ -1,0 +1,12 @@
+{
+  "data_path": "mkqa.jsonl",
+  "output_dir": "results",
+  "models": {
+    "umt5": "google/umt5-small",
+    "umt5_base": "google/umt5-base",
+    "mt5": "google/mt5-small",
+    "mt0": "bigscience/mt0-small",
+    "byt5": "google/byt5-small",
+    "umt5_large": "google/umt5-large"
+  }
+}
